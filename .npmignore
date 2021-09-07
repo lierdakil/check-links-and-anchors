@@ -1,0 +1,3 @@
+*.ts
+.claa-cache
+node_modules
